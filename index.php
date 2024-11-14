@@ -4,9 +4,9 @@
  $filas=file('archivo.txt'); 
  
  foreach($filas as $value){
-    list($id, $producto, $precio, $categoria) = explode(",", $value);
+    list($id, $productos, $precio, $categoria) = explode(",", $value);
     array_push($BDProductos, $id);
-    array_push($BDProductos, $producto);
+    array_push($BDProductos, $productos);
     array_push($BDProductos, $precio);
     array_push($BDProductos, $categoria);
     $iProductos++;

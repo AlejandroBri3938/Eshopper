@@ -193,7 +193,7 @@
 				
 				<div class="col-sm-9 padding-right">
 					<div class="features_items"><!--features_items-->
-						<h2 class="title text-center">Catálogo de Productos</
+						<h2 class="title text-center">Catalogo de productos</
 						h2>
 						<?php
 						$n=4;

@@ -1,3 +1,5 @@
+
+<a href="index.php"><img src="images/home/logo.png" alt="" /></a>
 <?php 
    const GUARDAR = 'Guardar';
    const VER_DATOS = 'Ver datos';
